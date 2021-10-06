@@ -1,0 +1,39 @@
+body{  background-color: cadetblue;
+    width: 972px;
+    margin: auto;
+}
+header{
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+}
+header ul li{
+display: inline;
+padding: 35px;
+
+}
+
+#largeImage{
+border: 2px solid black;
+text-align: center;
+display: block;
+margin: auto;
+margin-bottom: 15px;
+margin-top: 15px;
+
+}
+#smallImage{
+    border: 2px solid black;
+    margin: 15px;
+    float: left;
+    display: block;
+}
+p{
+font-size: 24px;
+}
+footer{
+    border: 2px solid black;
+    text-align: center;
+   padding-bottom: 50px;
+    margin-bottom: 10px;
+}
